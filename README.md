@@ -6,12 +6,4 @@ This repository provides an advanced-level implementation of speech signal proce
 
 Fourier Transform & Spectrograms: Convert speech signals from time-domain to frequency-domain.
 Mel-Frequency Cepstral Coefficients (MFCCs): Extract meaningful features for speech recognition.
-Streamlit App: Upload audio files and visualize waveform, spectrogram, and MFCCs.
-
-🛠️ Installation
-Clone the repository and install dependencies:
-git clone https://github.com/your-username/Speech-Signal-Features.git
-cd Speech-Signal-Features
-pip install -r requirements.txt
-
-
+Streamlit App: Upload audio files and visualize spectrogram, and MFCCs.
